@@ -6,3 +6,4 @@ To display the map of Nigeria and her 36 States along with the 2006 Population C
 
 To display the map of Nigeria and her 36 States along with the 2019 Population Cencus generated using PowerBI
 
+![Population 2019](https://github.com/user-attachments/assets/51128a92-9b7c-48f6-897d-3178d78193b9)
